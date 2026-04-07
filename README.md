@@ -44,7 +44,8 @@ To create the solid model from given drawing and section the solid model
 ## OUTPUT:
 
 
-[cup Drawing.pdf](https://github.com/user-attachments/files/26526870/cup.Drawing.pdf)
+<img width="1140" height="808" alt="image" src="https://github.com/user-attachments/assets/e20c71fb-23ec-4f3a-899b-3caad29cc28e" />
+
 
 
 ## RESULT:
